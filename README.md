@@ -44,7 +44,10 @@ The project follows the steps from restoring the data into **SQL Server**, Inges
 ## How to access the Dashboard
 
 1. **A General Overview of the Dashboard**: The Dashboard can be viewed in a PDF form by clicking <a href="https://drive.google.com/file/d/1vqmuYXsoBuodRBOyjziEIzm0_zJ71pTo/view?usp=sharing">here</a>!
-2. **Access the Entire Dashboard**: You can access and explore the Dashboard interactively by downloading this Folder and accessing the **Task.pbix** in this Folder.
+2. **Access the Entire Dashboard**: You can access and explore the Dashboard interactively by downloading this Folder and accessing the **Task.pbix** in this Folder or by Cloning the Repository using
+```bash
+git clone https://github.com/AhmedMetwaly1287/PowerBI-AdvDB.git
+```
    
 ## To-do
 - Improve the dashboard by creating more charts, making the current dashboard more spacious, adjusting the tooltips for more interactivity and facilitaing the process of drilling down
